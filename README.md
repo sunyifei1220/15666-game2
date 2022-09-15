@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# 3D pooping snake
 
-Author: (TODO: your name)
+Author: Yifei
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: It is only an unfinished version.
 
 Screen Shot:
 
@@ -10,6 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+The playmode has not been finished.
 
 This game was built with [NEST](NEST.md).
